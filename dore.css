@@ -1,0 +1,8 @@
+.dore{
+  font-family:'Cormorant Garamond',Georgia,serif;
+  background:linear-gradient(85deg,#A88C4E 0%,#C0A96D 25%,#F1E6C4 45%,#D7C8A0 60%,#C0A96D 80%,#9A7F45 100%);
+  -webkit-background-clip:text;
+  background-clip:text;
+  -webkit-text-fill-color:transparent;
+  color:transparent;
+}
